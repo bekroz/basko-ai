@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "basko",
+  "version": "0.1.0",
+  "description": "Grocery and pharmacy prices across stores in Uzbekistan, Kazakhstan, Russia, the United States and the United Kingdom: search products, compare a shopping list, find cheaper swaps, check deals and plan a weekly shop.",
+  "author": {
+    "name": "BEKRZ MCHJ",
+    "url": "https://basko.app"
+  },
+  "homepage": "https://basko.app/en/ai",
+  "repository": "https://github.com/bekroz/basko-ai",
+  "license": "MIT",
+  "keywords": ["groceries", "prices", "shopping", "pharmacy", "shopping list", "meal planning", "deals"]
+}

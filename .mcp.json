@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "basko": {
+      "type": "http",
+      "url": "https://mcp.basko.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "basko",
+  "version": "0.1.0",
+  "description": "Grocery and pharmacy prices across stores in Uzbekistan, Kazakhstan, Russia, the US and the UK: search, compare a shopping list, find cheaper swaps and plan a weekly shop.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "basko": {
+      "httpUrl": "https://mcp.basko.app/mcp"
+    }
+  }
+}

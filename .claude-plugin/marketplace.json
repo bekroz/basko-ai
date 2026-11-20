@@ -1,0 +1,15 @@
+{
+  "name": "basko",
+  "description": "Basko: grocery and pharmacy prices across stores, in Claude.",
+  "owner": {
+    "name": "BEKRZ MCHJ",
+    "url": "https://basko.app"
+  },
+  "plugins": [
+    {
+      "name": "basko",
+      "source": "./",
+      "description": "Search grocery and pharmacy prices, compare a shopping list across stores, find cheaper swaps and plan a weekly shop in Uzbekistan, Kazakhstan, Russia, the US and the UK."
+    }
+  ]
+}
